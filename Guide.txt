@@ -1,0 +1,9 @@
+-- HT-BASE ---
+- Start med at droppe [HT_base] inde i din resources mappe.
+- Derefter gå ind i din server.cfg eller server_resources.cfg og skriv:
+start HT_base
+start HT_menu_default
+start HT_menu_dialog
+start HT_menu_list
+- Derefter burde du være good-to-go, oplever du fejl, kontakt min PB:
+Fr3ckz#5839
